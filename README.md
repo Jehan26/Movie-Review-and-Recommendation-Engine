@@ -1,4 +1,4 @@
-# Movie-Review-and-Recommendation-Engine# 🎬 Movie Review & Recommendation Engine
+🎬 Movie Review & Recommendation Engine
 
 ## 📌 Overview
 A PostgreSQL-based engine to store, manage, and analyze movie ratings and user reviews.
